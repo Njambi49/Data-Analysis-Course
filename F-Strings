@@ -1,0 +1,11 @@
+#F strings in Python allow us to easily format strings by embedding expressions inside curly braces {}. This makes it easier to insert variables and expressions into strings without having to use concatenation or string formatting methods like % or .format().
+
+# Using F Strings to create a personalized message
+name = "Alice"
+age = 30.63
+
+message = "Hello %s, you are %.2f years old." %(name, age)
+print(message)
+
+
+# We assign the variables "name" and "age" with the values "Alice" and 30 respectively. We then use an f string to create a personalized message by inserting these variables into the string. When we print out the message, it outputs "Hello Alice, you are 30 years old.
