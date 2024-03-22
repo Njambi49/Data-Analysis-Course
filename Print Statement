@@ -1,0 +1,10 @@
+#Print statements in Python allow us to display output to the console. This is useful for debugging, providing feedback to the user, and monitoring the progress of our code execution.
+
+#let's print out each variable we had created (when dealing with Variables) to display their values.
+
+# Printing out the variables
+print(number)
+print(decimal)
+print(text)
+print(is_true)
+print(my_list)
