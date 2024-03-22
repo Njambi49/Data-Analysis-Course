@@ -1,0 +1,16 @@
+#Using variables in multiplication and division operations allows us to store and manipulate numerical values efficiently. We can assign values to variables and then perform multiplication and division operations on these variables.
+
+# Define variables
+num1 = 10
+num2 = 5
+
+# Perform multiplication operation using variables
+result_mult = num1 * num2
+print("Multiplication result:", result_mult)
+
+# Perform division operation using variables
+result_div = num1 / num2
+print("Division result: %.0f" %(result_div))
+
+#We define variables num1 and num2 with values 10 and 5 respectively. We then perform multiplication operation using these variables and store the result in result_mult.
+#We print out the multiplication result which is 50. Next, we perform division operation using the variables num1 and num2 and store the result in result_div. We print out the division result which is 2.0.
