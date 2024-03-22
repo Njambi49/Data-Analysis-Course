@@ -1,0 +1,20 @@
+#Modulus and Exponents
+
+#Modulus and exponents are arithmetic operators in Python that allow us to perform specific mathematical operations on numbers. The modulus operator (%) returns the remainder of a division operation, while the exponent operator (**) raises a number to a power.
+
+
+# Modulus operator example
+num1 = 10
+num2 = 2
+result_modulus = num1 % num2
+print(result_modulus)
+
+# Exponent operator example
+base = 1
+exponent = 2
+result_exponent = base ** exponent
+print(result_exponent)
+
+
+#We assign the integer values 10 and 3 to variables num1 and num2 respectively. We then use the modulus operator (%) to find the remainder when num1 is divided by num2, storing the result in the variable result_modulus. 
+#When we print out result_modulus, the output is 1. We assign the integer values 2 and 3 to variables base and exponent respectively. We then use the exponent operator (**) to raise base to the power of exponent, storing the result in the variable result_exponent. When we print out result_exponent, the output is 8.
