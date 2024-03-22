@@ -1,0 +1,19 @@
+#ADDITION AND SUBTRACTION
+
+#Arithmetic operators in Python are symbols used to perform mathematical operations. The addition operator (+) is used to add two or more numbers together, while the subtraction operator (-) is used to subtract one number from another. These operators are essential for performing basic arithmetic calculations in Python.
+
+# Addition
+num1 = 10
+num2 = 5
+result_addition = num1 + num2
+print("Addition result:", result_addition)
+
+# Subtraction
+num3 = 10
+num4 = 5
+result_subtraction = num3 - num4
+print("Subtraction result:", result_subtraction)
+
+
+#We perform addition and subtraction operations on two sets of numbers. We assign values to variables num1, num2, num3, and num4. We then use the addition operator (+) to add num1 and num2, and the subtraction operator (-) to subtract num4 from num3. 
+#The results are stored in result_addition and result_subtraction variables respectively. We print out the results of the addition and subtraction operations. The output will be: Addition result: 15 Subtraction result: 5
