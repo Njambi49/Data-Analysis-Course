@@ -1,0 +1,5 @@
+The global most basic intro to code has to be to greet the world. In python's syntax, it is written as:
+
+#Say hello to the world]
+
+print("Hello world")
