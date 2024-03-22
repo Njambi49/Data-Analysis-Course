@@ -1,0 +1,28 @@
+#Data types in Python refer to the classification of data items that determine the kind of operations that can be performed on them. Understanding data types is important as it helps us work with different types of data and perform appropriate operations on them.
+
+# Integer data type
+num1 = 10
+
+# Float data type
+num2 = 3.14
+
+# String data type
+name = "John Doe"
+
+# Boolean data type
+is_student = True
+
+# List data type
+fruits = ["apple", "banana", "orange"]
+
+# Dictionary data type
+person = {"name": "Alice", "age": 30}
+
+# Tuple data type
+coordinates = (10, 20)
+
+# Set data type
+unique_numbers = {1, 2, 3, 4, 5}
+
+# We define variables with different data types such as integer, float, string, boolean, list, dictionary, tuple, and set. We assign values to these variables accordingly. When we print out these variables, we see the values stored in them. 
+#For example, when we print out "num1", we see the output as 10 which is an integer. Similarly, we see the values of other variables like "num2", "name", "is_student", "fruits", "person", "coordinates", and "unique_numbers" based on their respective data types.
