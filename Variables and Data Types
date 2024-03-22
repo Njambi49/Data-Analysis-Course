@@ -1,0 +1,15 @@
+Variables in Python are used to store data values. Data types specify the type of data that a variable can hold, such as integers, strings, or lists.
+Understanding variables and data types is crucial in programming as it allows us to manipulate and work with different types of data efficiently
+
+Example:
+
+# Creating variables of different data types
+number = 10
+decimal = 3.14
+text = "Hello, World!"
+is_true = True
+my_list = [1, 2, 3, 4, 5]
+
+
+Explainer:
+We create variables of different data types: an integer, a string, a boolean, and a list. We then print out each variable to display their values. The output will be: 10 John True [85, 90, 88]
